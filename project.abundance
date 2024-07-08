@@ -7,7 +7,7 @@
     "ioValues": [
         {
             "name": "name1",
-            "ioValue": 5.1
+            "ioValue": 13.1
         }
     ],
     "topLevel": true,
@@ -28,13 +28,13 @@
         {
             "atomType": "Circle",
             "name": "Circle",
-            "x": 0.23825136612021858,
-            "y": 0.42006269592476486,
+            "x": 0.24,
+            "y": 0.4263322884012539,
             "uniqueID": 1720452146621,
             "ioValues": [
                 {
                     "name": "diameter",
-                    "ioValue": 5.1
+                    "ioValue": 13.1
                 }
             ]
         },
@@ -827,8 +827,8 @@
         {
             "atomType": "Join",
             "name": "Assembly",
-            "x": 0.7377049180327868,
-            "y": 0.6614420062695925,
+            "x": 0.7324999999999999,
+            "y": 0.6677115987460814,
             "uniqueID": 1720469885109,
             "ioValues": [
                 {
