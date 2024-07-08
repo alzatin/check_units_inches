@@ -7,7 +7,7 @@
     "ioValues": [
         {
             "name": "name1",
-            "ioValue": 8.1
+            "ioValue": 5.1
         }
     ],
     "topLevel": true,
@@ -34,7 +34,7 @@
             "ioValues": [
                 {
                     "name": "diameter",
-                    "ioValue": 8.1
+                    "ioValue": 5.1
                 }
             ]
         },
@@ -58,7 +58,7 @@
         {
             "atomType": "Molecule",
             "name": "T-Joint",
-            "x": 0.2655737704918033,
+            "x": 0.26625,
             "y": 0.6739811912225705,
             "uniqueID": 1720469878154,
             "ioValues": [],
