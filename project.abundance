@@ -13,48 +13,26 @@
             "x": 0.98,
             "y": 0.5,
             "uniqueID": 1720451107856,
-            "ioValues": [
-                {
-                    "name": "number or geometry",
-                    "ioValue": 1720452146621
-                }
-            ]
-        },
-        {
-            "atomType": "Rectangle",
-            "name": "Rectangle",
-            "x": 0.5642384105960265,
-            "y": 0.6018808777429467,
-            "uniqueID": 1720452140241,
-            "ioValues": [
-                {
-                    "name": "x length",
-                    "ioValue": 10
-                },
-                {
-                    "name": "y length",
-                    "ioValue": 10
-                }
-            ]
+            "ioValues": []
         },
         {
             "atomType": "Circle",
             "name": "Circle",
-            "x": 0.3770491803278689,
-            "y": 0.4420062695924765,
+            "x": 0.3169398907103825,
+            "y": 0.44514106583072105,
             "uniqueID": 1720452146621,
             "ioValues": [
                 {
                     "name": "diameter",
-                    "ioValue": 0.25
+                    "ioValue": 5.25
                 }
             ]
         },
         {
             "atomType": "Extrude",
             "name": "Extrude",
-            "x": 0.4666666666666667,
-            "y": 0.7021943573667712,
+            "x": 0.585792349726776,
+            "y": 0.6426332288401254,
             "uniqueID": 1720453877578,
             "ioValues": [
                 {
@@ -69,13 +47,6 @@
         }
     ],
     "allConnectors": [
-        {
-            "ap1Name": "geometry",
-            "ap2Name": "number or geometry",
-            "ap2Primary": false,
-            "ap1ID": 1720452146621,
-            "ap2ID": 1720451107856
-        },
         {
             "ap1Name": "geometry",
             "ap2Name": "geometry",
