@@ -7,7 +7,7 @@
     "ioValues": [
         {
             "name": "name1",
-            "ioValue": 6
+            "ioValue": 10
         }
     ],
     "topLevel": true,
@@ -34,7 +34,7 @@
             "ioValues": [
                 {
                     "name": "diameter",
-                    "ioValue": 6
+                    "ioValue": 10
                 }
             ]
         },
