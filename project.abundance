@@ -1,0 +1,15 @@
+{
+    "atomType": "Molecule",
+    "name": "check_units_inches",
+    "x": 0,
+    "y": 0,
+    "uniqueID": 1720451012526,
+    "ioValues": [],
+    "topLevel": true,
+    "allAtoms": [],
+    "allConnectors": [],
+    "unitsKey": "Inches",
+    "fileTypeVersion": 1,
+    "compiledBom": {},
+    "filetypeVersion": 1
+}
