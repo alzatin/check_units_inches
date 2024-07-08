@@ -7,7 +7,7 @@
     "ioValues": [
         {
             "name": "name1",
-            "ioValue": 13.1
+            "ioValue": 9
         }
     ],
     "topLevel": true,
@@ -28,21 +28,21 @@
         {
             "atomType": "Circle",
             "name": "Circle",
-            "x": 0.24,
+            "x": 0.22874999999999998,
             "y": 0.4263322884012539,
             "uniqueID": 1720452146621,
             "ioValues": [
                 {
                     "name": "diameter",
-                    "ioValue": 13.1
+                    "ioValue": 9
                 }
             ]
         },
         {
             "atomType": "Extrude",
             "name": "Extrude",
-            "x": 0.5836065573770491,
-            "y": 0.438871473354232,
+            "x": 0.52625,
+            "y": 0.3887147335423197,
             "uniqueID": 1720453877578,
             "ioValues": [
                 {
@@ -827,8 +827,8 @@
         {
             "atomType": "Join",
             "name": "Assembly",
-            "x": 0.7324999999999999,
-            "y": 0.6677115987460814,
+            "x": 0.735,
+            "y": 0.6896551724137931,
             "uniqueID": 1720469885109,
             "ioValues": [
                 {
