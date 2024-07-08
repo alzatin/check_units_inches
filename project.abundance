@@ -13,7 +13,12 @@
             "x": 0.98,
             "y": 0.5,
             "uniqueID": 1720451107856,
-            "ioValues": []
+            "ioValues": [
+                {
+                    "name": "number or geometry",
+                    "ioValue": 1720452146621
+                }
+            ]
         },
         {
             "atomType": "Rectangle",
@@ -35,20 +40,52 @@
         {
             "atomType": "Circle",
             "name": "Circle",
-            "x": 0.3774834437086093,
-            "y": 0.43573667711598746,
+            "x": 0.3770491803278689,
+            "y": 0.4420062695924765,
             "uniqueID": 1720452146621,
             "ioValues": [
                 {
                     "name": "diameter",
-                    "ioValue": 5.5
+                    "ioValue": 0.25
+                }
+            ]
+        },
+        {
+            "atomType": "Extrude",
+            "name": "Extrude",
+            "x": 0.4666666666666667,
+            "y": 0.7021943573667712,
+            "uniqueID": 1720453877578,
+            "ioValues": [
+                {
+                    "name": "geometry",
+                    "ioValue": 1720452146621
+                },
+                {
+                    "name": "height",
+                    "ioValue": 2
                 }
             ]
         }
     ],
-    "allConnectors": [],
+    "allConnectors": [
+        {
+            "ap1Name": "geometry",
+            "ap2Name": "number or geometry",
+            "ap2Primary": false,
+            "ap1ID": 1720452146621,
+            "ap2ID": 1720451107856
+        },
+        {
+            "ap1Name": "geometry",
+            "ap2Name": "geometry",
+            "ap2Primary": true,
+            "ap1ID": 1720452146621,
+            "ap2ID": 1720453877578
+        }
+    ],
     "unitsKey": "Inches",
     "fileTypeVersion": 1,
-    "compiledBom": {},
+    "compiledBom": [],
     "filetypeVersion": 1
 }
