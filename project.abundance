@@ -29,7 +29,7 @@
             "atomType": "Circle",
             "name": "Circle",
             "x": 0.2308510638297872,
-            "y": 0.331306990881459,
+            "y": 0.3434650455927052,
             "uniqueID": 1720452146621,
             "ioValues": [
                 {
@@ -861,6 +861,19 @@
             "type": "SVG",
             "SVGdepth": 1,
             "SVGwidth": 30
+        },
+        {
+            "atomType": "Circle",
+            "name": "Circle",
+            "x": 0.1851063829787234,
+            "y": 0.5653495440729484,
+            "uniqueID": 1720800713857,
+            "ioValues": [
+                {
+                    "name": "diameter",
+                    "ioValue": 9
+                }
+            ]
         }
     ],
     "allConnectors": [
