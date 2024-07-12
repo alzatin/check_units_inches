@@ -21,7 +21,7 @@
             "ioValues": [
                 {
                     "name": "number or geometry",
-                    "ioValue": 1720469885109
+                    "ioValue": 1720797516745
                 }
             ]
         },
@@ -827,8 +827,8 @@
         {
             "atomType": "Join",
             "name": "Assembly",
-            "x": 0.735,
-            "y": 0.6896551724137931,
+            "x": 0.7768187422934648,
+            "y": 0.4650455927051672,
             "uniqueID": 1720469885109,
             "ioValues": [
                 {
@@ -853,14 +853,14 @@
         {
             "atomType": "Import",
             "name": "Import",
-            "x": 0.46115906288532676,
-            "y": 0.6170212765957447,
+            "x": 0.47595561035758327,
+            "y": 0.7203647416413375,
             "uniqueID": 1720797516745,
             "ioValues": [],
             "fileName": "adidas.svg",
             "type": "SVG",
-            "SVGdepth": 10,
-            "SVGwidth": 10
+            "SVGdepth": 1,
+            "SVGwidth": 30
         }
     ],
     "allConnectors": [
@@ -886,29 +886,22 @@
             "ap2ID": 1720469885109
         },
         {
-            "ap1Name": "geometry",
-            "ap2Name": "number or geometry",
-            "ap2Primary": false,
-            "ap1ID": 1720469885109,
-            "ap2ID": 1720451107856
-        },
-        {
             "ap1Name": "number or geometry",
             "ap2Name": "diameter",
             "ap2Primary": false,
             "ap1ID": 1720469896163,
             "ap2ID": 1720452146621
+        },
+        {
+            "ap1Name": "geometry",
+            "ap2Name": "number or geometry",
+            "ap2Primary": false,
+            "ap1ID": 1720797516745,
+            "ap2ID": 1720451107856
         }
     ],
     "unitsKey": "Inches",
     "fileTypeVersion": 1,
-    "compiledBom": [
-        {
-            "BOMitemName": "1.5 Inch Screw",
-            "numberNeeded": 6,
-            "costUSD": 0.6,
-            "source": "www.example.com"
-        }
-    ],
+    "compiledBom": [],
     "filetypeVersion": 1
 }
