@@ -849,6 +849,18 @@
             "y": 0.5454545454545455,
             "uniqueID": 1720469896163,
             "ioValues": []
+        },
+        {
+            "atomType": "Import",
+            "name": "Import",
+            "x": 0.43272335844994614,
+            "y": 0.4589665653495441,
+            "uniqueID": 1720794254107,
+            "ioValues": [],
+            "fileName": "adidas.svg",
+            "type": "SVG",
+            "SVGdepth": 10,
+            "SVGwidth": 10
         }
     ],
     "allConnectors": [
