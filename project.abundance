@@ -60,18 +60,6 @@
         {
             "atomType": "Import",
             "name": "Import",
-            "x": 0.4355179704016913,
-            "y": 0.756838905775076,
-            "uniqueID": 1722891209539,
-            "ioValues": [],
-            "fileName": "love.svg",
-            "type": "SVG",
-            "SVGdepth": 10,
-            "SVGwidth": 10
-        },
-        {
-            "atomType": "Import",
-            "name": "Import",
             "x": 0.5644820295983086,
             "y": 0.6261398176291794,
             "uniqueID": 1722891847288,
