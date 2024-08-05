@@ -56,18 +56,6 @@
             "type": "SVG",
             "SVGdepth": 10,
             "SVGwidth": 10
-        },
-        {
-            "atomType": "Import",
-            "name": "Import",
-            "x": 0.5644820295983086,
-            "y": 0.6261398176291794,
-            "uniqueID": 1722891847288,
-            "ioValues": [],
-            "fileName": "emp.svg",
-            "type": "SVG",
-            "SVGdepth": 10,
-            "SVGwidth": 10
         }
     ],
     "allConnectors": [
