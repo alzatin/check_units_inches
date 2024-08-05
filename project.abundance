@@ -18,12 +18,7 @@
             "x": 0.98,
             "y": 0.5,
             "uniqueID": 1720451107856,
-            "ioValues": [
-                {
-                    "name": "number or geometry",
-                    "ioValue": 1720797516745
-                }
-            ]
+            "ioValues": []
         },
         {
             "atomType": "Input",
@@ -36,8 +31,8 @@
         {
             "atomType": "Import",
             "name": "Import",
-            "x": 0.4080338266384778,
-            "y": 0.6291793313069909,
+            "x": 0.4281183932346723,
+            "y": 0.45288753799392095,
             "uniqueID": 1720797516745,
             "ioValues": [],
             "fileName": "adidas.svg",
@@ -48,11 +43,23 @@
         {
             "atomType": "Import",
             "name": "Import",
-            "x": 0.27695560253699786,
-            "y": 0.4984802431610943,
+            "x": 0.26215644820295986,
+            "y": 0.601823708206687,
             "uniqueID": 1722890761406,
             "ioValues": [],
             "fileName": "circle.svg",
+            "type": "SVG",
+            "SVGdepth": 10,
+            "SVGwidth": 10
+        },
+        {
+            "atomType": "Import",
+            "name": "Import",
+            "x": 0.4746300211416491,
+            "y": 0.7659574468085106,
+            "uniqueID": 1722891209539,
+            "ioValues": [],
+            "fileName": "love.svg",
             "type": "SVG",
             "SVGdepth": 10,
             "SVGwidth": 10
