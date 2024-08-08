@@ -72,6 +72,41 @@
                 "cutLayout"
             ],
             "cutTag": true
+        },
+        {
+            "atomType": "Molecule",
+            "name": "Molecule",
+            "x": 0.5437392795883362,
+            "y": 0.5896656534954408,
+            "uniqueID": 1723127602189,
+            "ioValues": [
+                {
+                    "name": "name1",
+                    "ioValue": 10
+                }
+            ],
+            "topLevel": false,
+            "allAtoms": [
+                {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 0.98,
+                    "y": 0.5,
+                    "uniqueID": 1723127601514,
+                    "ioValues": []
+                },
+                {
+                    "atomType": "Input",
+                    "name": "name1",
+                    "x": 0.013333333333333334,
+                    "y": 0.5454545454545455,
+                    "uniqueID": 1723127601573,
+                    "ioValues": []
+                }
+            ],
+            "allConnectors": [],
+            "fileTypeVersion": 1,
+            "compiledBom": {}
         }
     ],
     "allConnectors": [
